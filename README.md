@@ -13,9 +13,11 @@
 |---------|-------------|
 | [**OrionIA**](https://github.com/iBluZiiZ/OrionIA) | Asistente personal en Python con comandos por voz, automatización de tareas y respuesta personalizada |
 | **DecoderLink** *(privado por ahora)* | Script en Python + Selenium que automatiza el envío de mensajes desde Excel |
+| [**Fruit Shooter**](https://github.com/iBluZiiZ/Fruit-Shooter) | Juego arcade en C++ usando Allegro donde disparas frutas apuntando con el mouse. Incluye sistema de niveles, menú, HUD y lógica completa de juego |
 
 > ⚙️ *OrionIA es un proyecto experimental orientado al aprendizaje y desarrollo personal.*  
-> 🔒 *DecoderLink está finalizado en su versión funcional, pero el repositorio se mantendrá privado hasta su publicación oficial.*
+> 🔒 *DecoderLink está finalizado en su versión funcional, pero el repositorio se mantendrá privado hasta su publicación oficial.*  
+> 🎮 *Fruit Shooter fue desarrollado como parte de una asignatura en la Universidad.*
 
 ---
 
